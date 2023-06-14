@@ -23,17 +23,18 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" width="500" height="320" />
 
-I am an experienced web developer with over 12 years of experience in creating high-quality web solutions. I possess a deep understanding of the latest technologies and design patterns, and I am committed to continuously updating my skills and knowledge. I am a leader in developing modern web applications, and my goal is to deliver innovative and high-quality technology solutions to meet the needs of clients and end-users.
+I am a senior FrontEnd developer with over 12 years of experience, with more than 6years in Vue.js and React.js. I possess strong skills in JavaScript and TypeScript, as well as in developing user interfaces using HTML5, CSS3, and preprocessors. I have successfully led teams in large-scale projects, demonstrating my leadership abilities and effective communication skills. My focus is on creating exceptional web experiences, optimizing performance and usability. Additionally, I have expertise in continuous integration and continuous deployment (CI/CD) processes, utilizing tools like Jenkins or GitLab CI/CD to streamline development workflows and ensure efficient delivery. I also have experience working with cloud platforms such as AWS or GCP, leveraging their services and infrastructure to build scalable and reliable web applications. I am seeking exciting opportunities where I can utilize my leadership experience, technical skills, and expertise in CI/CD and cloud technologies to drive successful FrontEnd projects.
 
 Technical Skills:
 
-Programming languages: JavaScript, HTML5, CSS3, TypeScript
-Frameworks and libraries: React.js, AngularJS, Vue.js, Node.js, Express.js
+Main Skills: Javascript, Typescript, php
+Frameworks and libraries: React.js, AngularJS, Vue.js, Node.js, NestJS, NextJS, NuxtJS
 Design patterns: MVC, MVVM, MVP, Flux, Redux
-Databases: MySQL, MongoDB, PostgreSQL
+Databases: MySQL, MongoDB, PostgreSQL, Firebase
 Version control tools: Git, SVN
 Agile development methodologies: Scrum, Kanban
 Testing and automation: Jasmine, Mocha, Chai, Selenium, Cypress
+CloudComputing: AWS, GCP, Azure, Render
 
 - 🔭 I’m currently working on my project [Merkaly](https://github.com/sk-merkaly)
 - 🌱 I’m currently learning Flutter & Go
