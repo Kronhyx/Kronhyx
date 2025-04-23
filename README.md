@@ -41,6 +41,8 @@ CloudComputing: AWS, GCP, Azure, Render
 - 👯 I’m looking to collaborate on [NuxtJS](https://github.com/nuxt/nuxt.js)
 - 💬 Ask me about anything [here](https://github.com/kronhyx/kronhyx/issues)
 
+[![Kronhyx Nuxter profile](https://nuxters.nuxt.com/card/Kronhyx/og.png)](https://nuxters.nuxt.com/Kronhyx)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
