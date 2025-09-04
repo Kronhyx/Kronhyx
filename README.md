@@ -1,62 +1,91 @@
-### Hi there, I'm [Kronhyx!](https://kronhyx.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9891c4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9891c4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Randy+Tellez+Galan;I'm+a+Senior+Frontend+Developer;Specialist+in+Vue+%26+Nuxt;Passionate+about+UI,UX+%26+Performance)](https://git.io/typing-svg)
 
-<a href="https://linkedin.com/in/kronhyx">
-  <img align="left" alt="Randy Tellez | LinkedIn" width="20px" src="https://user-images.githubusercontent.com/16559276/157948791-aa35b8cd-6df9-4fdb-acc0-c92a3a638e8e.png" />
+[![Randy Tellez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kronhyx&bg_color=0d1117&color=9891c4&line=9891c4&point=9891c4&area=true&area_color=9891c4&hide_border=true)](https://github.com/kronhyx/)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kronhyx&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+</p>
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"> Welcome to my profile!
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+## 👤 &nbsp;About Me
+
+I’m Randy, a Cuban software engineer living in Brazil.  
+I’ve been building digital products since my teenage years, from web apps to SaaS platforms. Today, I focus on **frontend architecture, UI/UX design, and performance optimization**, especially with **Vue, Nuxt, and TypeScript**.  
+
+I enjoy solving complex problems with clean, scalable solutions, and I’m passionate about sharing knowledge and working with international teams.
+
+### Quick Facts
+
+- 🌍 Based in Florianópolis, Brazil — originally from Havana, Cuba  
+- 💻 Senior Frontend Developer, currently working at **SmartBarrel**  
+- 🚀 Building my own SaaS product: **TaLegacy CRM**  
+- ⚡ Skilled in Vue, Nuxt, Node.js, MongoDB, Docker & modern web stacks  
+- 🏗 Experience leading projects from idea → PoC → MVP → Production  
+- 👨‍👩‍👧‍👦 Family man — proud husband and father of twins  
+
+### Connect with me
+
+<a href = "mailto:kronhyx@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-9891c4?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+<a href = "https://www.instagram.com/kronhyx/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-9891c4?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kronhyx/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-9891c4?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+<a href="https://medium.com/@kronhyx" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-9891c4?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kronhyx/kronhyx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kronhyx/kronhyx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kronhyx/kronhyx/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## ⭐️ &nbsp;GitHub Stats
+
+<a href="https://github.com/kronhyx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kronhyx&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kronhyx&layout=compact&langs_count=6&theme=merko"/>
 </a>
 
+---
 
-<a href="https://twitter.com/kronhyx">
-  <img align="left" alt="Randy Tellez | Twitter" width="21px" src="https://user-images.githubusercontent.com/16559276/157948055-1d06382d-eb10-43cf-836f-271bef02d96f.png" />
-</a>
+## 🛠 &nbsp;Languages & Techs
 
+### Tools
 
-<a href="https://facebook.com/kronhyx">
-  <img align="left" alt="Randy Tellez | Facebook" width="21px" src="https://user-images.githubusercontent.com/16559276/157948291-577966d1-9cd2-402f-8e6b-97968a01ecd2.png" />
-</a>
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/kronhyx)
 
-![](https://visitor-badge.glitch.me/badge?page_id=kronhyx)
+### Back-end
 
-<br />
-<hr />
-<br />
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/kronhyx)
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/16559276/157949150-845bfb54-ccea-48af-8af6-367c176c397c.gif" width="500" height="320" />
+### Front-end
 
-I am a senior FrontEnd developer with over 12 years of experience, with more than 6years in Vue.js and React.js. I possess strong skills in JavaScript and TypeScript, as well as in developing user interfaces using HTML5, CSS3, and preprocessors. I have successfully led teams in large-scale projects, demonstrating my leadership abilities and effective communication skills. My focus is on creating exceptional web experiences, optimizing performance and usability. Additionally, I have expertise in continuous integration and continuous deployment (CI/CD) processes, utilizing tools like Jenkins or GitLab CI/CD to streamline development workflows and ensure efficient delivery. I also have experience working with cloud platforms such as AWS or GCP, leveraging their services and infrastructure to build scalable and reliable web applications. I am seeking exciting opportunities where I can utilize my leadership experience, technical skills, and expertise in CI/CD and cloud technologies to drive successful FrontEnd projects.
+[![Front-end Development Skills](https://skillicons.dev/icons?i=vue,nuxt,html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass,styledcomponents)](https://github.com/kronhyx)
 
-Technical Skills:
+### Database
 
-Main Skills: Javascript, Typescript, php
-Frameworks and libraries: React.js, AngularJS, Vue.js, Node.js, NestJS, NextJS, NuxtJS
-Design patterns: MVC, MVVM, MVP, Flux, Redux
-Databases: MySQL, MongoDB, PostgreSQL, Firebase
-Version control tools: Git, SVN
-Agile development methodologies: Scrum, Kanban
-Testing and automation: Jasmine, Mocha, Chai, Selenium, Cypress
-CloudComputing: AWS, GCP, Azure, Render
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase)](https://github.com/kronhyx)
 
-- 🔭 I’m currently working on my project [Merkaly](https://github.com/sk-merkaly)
-- 🌱 I’m currently learning Flutter & Go
-- 👯 I’m looking to collaborate on [NuxtJS](https://github.com/nuxt/nuxt.js)
-- 💬 Ask me about anything [here](https://github.com/kronhyx/kronhyx/issues)
+### Mobile
 
-[![Kronhyx Nuxter profile](https://nuxters.nuxt.com/card/Kronhyx/og.png)](https://nuxters.nuxt.com/Kronhyx)
+[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/kronhyx)
 
-**Languages and Tools:**  
+<br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=kronhyx&color=9891c4" alt="Profile views" />
+</div>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kronhyx&show_icons=true&include_all_commits=true" alt="Kronhyx's github stats" />
-</a>
-<a href="#">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kronhyx&layout=compact" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9891c4&height=120&section=footer"/>
