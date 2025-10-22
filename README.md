@@ -37,7 +37,7 @@ I enjoy solving complex problems with clean, scalable solutions, and I’m passi
 ### Connect with me
 
 <a href = "mailto:kronhyx@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-9891c4?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href = "https://www.instagram.com/kronhyx/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-9891c4?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+<a href = "https://www.instagram.com/merkaly.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-9891c4?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kronhyx/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-9891c4?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 <a href="https://medium.com/@kronhyx" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-9891c4?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
 
